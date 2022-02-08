@@ -1,0 +1,54 @@
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom SEN Project\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom SEN Project\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom SEN Project\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom SEN Project\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom Practical 8 SEN381\Richter Blom SEN Project\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom Practical 8 SEN381\Richter Blom SEN Project\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom Practical 8 SEN381\Richter Blom SEN Project\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom Practical 8 SEN381\Richter Blom SEN Project\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom Practical 8 SEN381\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom Practical 8 SEN381\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom Practical 8 SEN381\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom Practical 8 SEN381\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom Practical 8 SEN381\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\V1.1\Richter Blom SEN Project\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\V1.1\Richter Blom SEN Project\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\V1.1\Richter Blom SEN Project\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\V1.1\Richter Blom SEN Project\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\V1.1\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\V1.1\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\V1.1\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\V1.1\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\V1.1\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom Practical 9 10 11 SEN381\Richter Blom SEN Project\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom Practical 9 10 11 SEN381\Richter Blom SEN Project\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom Practical 9 10 11 SEN381\Richter Blom SEN Project\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom Practical 9 10 11 SEN381\Richter Blom SEN Project\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom Practical 9 10 11 SEN381\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom Practical 9 10 11 SEN381\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom Practical 9 10 11 SEN381\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom Practical 9 10 11 SEN381\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\2.2.2 Practical Assignments\Richter Blom Practical 9 10 11 SEN381\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\Richter Blom Final Project SEN381\Richter Blom SEN Project\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\Richter Blom Final Project SEN381\Richter Blom SEN Project\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\Richter Blom Final Project SEN381\Richter Blom SEN Project\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\Richter Blom Final Project SEN381\Richter Blom SEN Project\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\Richter Blom Final Project SEN381\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\Richter Blom Final Project SEN381\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\Richter Blom Final Project SEN381\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\Richter Blom Final Project SEN381\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Richter\Downloads\SEN 381 2020\2. Assesments\2.2 Assignments\Richter Blom Final Project SEN381\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+G:\BELGIUM CAMPUS year 1 - 3\3rd years\SEN 381\SEN 381 2020\2. Assesments\2.2 Assignments\Richter Blom Final Project SEN381\Richter Blom SEN Project\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+G:\BELGIUM CAMPUS year 1 - 3\3rd years\SEN 381\SEN 381 2020\2. Assesments\2.2 Assignments\Richter Blom Final Project SEN381\Richter Blom SEN Project\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+G:\BELGIUM CAMPUS year 1 - 3\3rd years\SEN 381\SEN 381 2020\2. Assesments\2.2 Assignments\Richter Blom Final Project SEN381\Richter Blom SEN Project\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+G:\BELGIUM CAMPUS year 1 - 3\3rd years\SEN 381\SEN 381 2020\2. Assesments\2.2 Assignments\Richter Blom Final Project SEN381\Richter Blom SEN Project\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+G:\BELGIUM CAMPUS year 1 - 3\3rd years\SEN 381\SEN 381 2020\2. Assesments\2.2 Assignments\Richter Blom Final Project SEN381\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+G:\BELGIUM CAMPUS year 1 - 3\3rd years\SEN 381\SEN 381 2020\2. Assesments\2.2 Assignments\Richter Blom Final Project SEN381\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+G:\BELGIUM CAMPUS year 1 - 3\3rd years\SEN 381\SEN 381 2020\2. Assesments\2.2 Assignments\Richter Blom Final Project SEN381\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+G:\BELGIUM CAMPUS year 1 - 3\3rd years\SEN 381\SEN 381 2020\2. Assesments\2.2 Assignments\Richter Blom Final Project SEN381\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+G:\BELGIUM CAMPUS year 1 - 3\3rd years\SEN 381\SEN 381 2020\2. Assesments\2.2 Assignments\Richter Blom Final Project SEN381\Richter Blom SEN Project\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
